@@ -2,7 +2,7 @@
 # HI🤪 ,  I'm the most idiot developer in the world!
 ### Free Spirit Developer
 
-![snake gif](https://github.com/KKUBUL/KKUBUL/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/9Dollar/9Dollar/blob/output/github-contribution-grid-snake.svg)
 
 # 💫 About Me:
 🔭 I’m currently working on Animal_Library(Just Game)
