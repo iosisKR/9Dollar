@@ -1,8 +1,6 @@
 
-<div align="center">
 # HI🤪 ,  I'm the most idiot developer in the world!
 ### Free Spirit Developer
-</div>
 
 ![snake gif](https://github.com/KKUBUL/KKUBUL/blob/output/github-contribution-grid-snake.svg)
 
